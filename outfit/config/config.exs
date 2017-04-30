@@ -10,11 +10,11 @@ use Mix.Config
 
 # You can configure for your application as:
 #
-#     config :guessing_game, key: :value
+#     config :outfit, key: :value
 #
 # And access this configuration in your application as:
 #
-#     Application.get_env(:guessing_game, :key)
+#     Application.get_env(:outfit, :key)
 #
 # Or configure a 3rd-party app:
 #
